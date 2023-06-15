@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
  * main - A program that prints the side of various computer types
- * Return 0 (Success)
+ * Return 0 (success)
  */
-
 int main(void)
 {
 	char a;
