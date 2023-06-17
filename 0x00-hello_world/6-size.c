@@ -1,15 +1,14 @@
 #include <stdio.h>
 /**
 * main - Entry point
-*
-* Return: Always 0 (Success)
+* Return: 0 (Success)
 */
 int main(void)
 {
 	char a;
 	int b;
 	long int c;
-	long long d;
+	long long int d;
 	float f;
 
 printf("Size of a char: %d byte(s)\n", (unsigned long)sizeof(char));
